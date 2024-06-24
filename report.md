@@ -14,7 +14,6 @@
 ![image](https://github.com/Klochkova24/lab-1/assets/91188482/692ca76b-e9fa-4ce7-bb27-40fb2cda63f0)
 Рисунок 5 - Создание файла script.bash
 ![image](https://github.com/Klochkova24/lab-1/assets/91188482/65244c23-daa1-4f62-8cc4-f849f9052fd9)
-
 Рисунок 6 - Редактирование файла script.bash
 7. Файл был сохранён, а текстовый редактор закрыт. Для проверки корректности работы была вызвана команда, приведённая на рисунке 7. В результате в консоли появилось сообщение "Welcome to ITMO University", значит, всё было выполнено верно.
 ![image](https://github.com/Klochkova24/lab-1/assets/91188482/eb96aa12-ae9e-4b05-9a5d-26c12999b53e)
